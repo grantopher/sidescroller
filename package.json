@@ -1,0 +1,30 @@
+{
+  "name": "sidescroller",
+  "version": "0.1.0",
+  "description": "A basic side scrolling game",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:grantopher/sidescroller.git"
+  },
+  "keywords": [
+    "game",
+    "web",
+    "javascript",
+    "js",
+    "testing"
+  ],
+  "author": "Grantopher Carson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grantopher/sidescroller/issues"
+  },
+  "homepage": "https://github.com/grantopher/sidescroller"
+}
